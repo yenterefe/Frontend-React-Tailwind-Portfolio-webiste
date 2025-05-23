@@ -1,2 +1,2 @@
 # React-tailwind-portfolio-webiste
-Refactored my static Vanilla JS website by using React.JS and Tailwind CSS
+Rebuilt my static website using React.js and Tailwind CSS for improved component structure, styling consistency, and scalability.
